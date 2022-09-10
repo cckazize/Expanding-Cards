@@ -1,2 +1,2 @@
 # Expanding-Cards
-#Html-css a sample project created
+# Html-css and javascript a sample project created
