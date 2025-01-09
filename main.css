@@ -26,10 +26,11 @@ body {
     border-radius: 50px;
     margin: 10px;
     transition: flex 0.7s ease-in;
+    top: 30px;
 }
 .panel h3{
     position: absolute;
-    font-size: 3rem;
+    font-size: 1.5rem;
     color:#fff;
     bottom: 40px;
     left: 30px;
